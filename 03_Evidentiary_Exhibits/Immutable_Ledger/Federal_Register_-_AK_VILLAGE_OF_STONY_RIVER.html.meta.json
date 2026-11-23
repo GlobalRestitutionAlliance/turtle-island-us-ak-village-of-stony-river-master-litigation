@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+VILLAGE+OF+STONY+RIVER",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+VILLAGE+OF+STONY+RIVER",
+  "title": "Federal Register - AK VILLAGE OF STONY RIVER",
+  "fetched_at": "2026-11-23T17:31:30.922388Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 236930,
+  "sha256": "5f181a9c611e6bd1ef5a2e712349629f540d8e176a188bd08f5f991159a2fbd9",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
